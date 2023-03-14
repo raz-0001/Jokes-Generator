@@ -18,14 +18,14 @@ button{
     position: absolute;
     bottom: 0;
     left: 40%;
-    transform: scale(3);
+    transform: scale(2);
     background-color:#FFACAC ;
     border-radius: 10px;
     border-color: #ffacac87;
 }
 
 p{
-    font-size: 3em;
+    font-size: 2em;
     font-family: cursive;
 }
 
